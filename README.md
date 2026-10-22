@@ -1,4 +1,4 @@
-# Real-Time-Mental-Health-Sentiment-Dashboard-Using-Reddit-Comments ++ Power BI
+# Real Time Mental Health Sentiment Dashboard Using Reddit Comments ++ Power BI
 
 mental-health-sentiment-powerbi/
 │
